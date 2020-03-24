@@ -2,7 +2,7 @@
 home: true
 heroText: Open Source Ventilator
 tagline: We are a team of volunteers who are working day and night at the moment to develop a low-cost and open-source ventilator to help save lives and aid the recovery of COVID19 patients.
-actionText: Ventilate Now →
+actionText: Get Started →
 actionLink: /docs/
 footer: MIT Licensed | Copyright © 2020
 ---
