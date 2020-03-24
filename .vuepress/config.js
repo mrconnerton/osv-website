@@ -21,7 +21,7 @@ module.exports = ctx => ({
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
   themeConfig: {
-    editLinks: false,
+    editLinks: true,
     docsDir: '',
     /*algolia: ctx.isProd ? ({
       apiKey: '',
@@ -33,7 +33,7 @@ module.exports = ctx => ({
         label: 'English',
         selectText: 'Languages',
         ariaLabel: 'Select language',
-        /*editLinkText: 'Edit this page on GitHub',*/
+        editLinkText: 'Suggest edits this page',
         lastUpdated: 'Last Updated',
         nav: require('./nav/en'),
         sidebar: {
