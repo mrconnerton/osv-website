@@ -14,5 +14,6 @@ TODOs.md
 .vscode
 .idea
 
-# VuePress temp directory
+# VuePress
 .temp
+public
